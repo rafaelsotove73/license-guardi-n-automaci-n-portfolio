@@ -1,5 +1,5 @@
 🛡️ Guardián de Licencias - Portafolio de Automatización Inteligente
-<img width="1341" height="768" alt="image" src="https://github.com/user-attachments/assets/dd22fb26-ad1c-4025-becb-bbccd810f66b" />
+
 
 ✨ Descripción General
 Bienvenido/a a mi portafolio de soluciones de automatización para la gestión inteligente de licencias. Este ecosistema transforma la complejidad administrativa en procesos eficientes, escalables y seguros utilizando tecnologías de vanguardia de Google Cloud Platform y Google Workspace.
@@ -13,8 +13,7 @@ Errores humanos en licenciamiento	Validaciones automatizadas y auditoría	📊 9
 1. 🔍 La Complejidad Oculta de la Gestión de Licencias
 Análisis de desafíos en gestión manual
 
-<img width="1345" height="766" alt="image" src="https://github.com/user-attachments/assets/9cbc138d-26f9-450d-9212-ed242fb60310" />
-
+<img width="1341" height="768" alt="image" src="https://github.com/user-attachments/assets/dd22fb26-ad1c-4025-becb-bbccd810f66b" />
 
 
 Identificación de puntos críticos y oportunidades de automatización en ciclos de vida de licencias.
@@ -22,7 +21,7 @@ Identificación de puntos críticos y oportunidades de automatización en ciclos
 2. 🤖 Piloto Automático para tus Licencias
 Sistema de guardian automatizado
 
-https://github.com/user-attachments/assets/f62a78a1-cac0-4acc-a29b-9fd4703715e6
+<img width="1345" height="766" alt="image" src="https://github.com/user-attachments/assets/9cbc138d-26f9-450d-9212-ed242fb60310" />
 
 Arquitectura completa que supervisa, gestiona y optimiza el uso de licencias en tiempo real.
 
