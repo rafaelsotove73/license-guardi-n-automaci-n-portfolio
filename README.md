@@ -30,14 +30,16 @@ Arquitectura completa que supervisa, gestiona y optimiza el uso de licencias en 
 3. 🔒 Integración Transparente: Seguridad desde el Cliente
 Flujo seguro de verificación y licenciamiento
 
-https://github.com/user-attachments/assets/9b304eab-d361-4087-b735-7dacda00324b
+<img width="1408" height="732" alt="image" src="https://github.com/user-attachments/assets/80f23775-a206-498a-8e45-81055315b502" />
+
 
 Proceso integral de seguridad que protege desde la solicitud hasta la entrega de licencias.
 
 4. ☁️ Potencia en la Nube: Google Cloud como Backbone
 Infraestructura escalable serverless
 
-https://github.com/user-attachments/assets/f0ce34b7-6824-4863-8582-eea8c1e9885c
+<img width="1407" height="733" alt="image" src="https://github.com/user-attachments/assets/9bf12837-9cdb-445f-b793-d62b5eca8b66" />
+
 
 Arquitectura construida con:
 
@@ -50,7 +52,8 @@ IAM (Gestión de Identidad y Acceso)
 5. 📧 Automatización Inteligente - Ecosistema Google Workspace
 Integración con herramientas de productividad
 
-https://github.com/user-attachments/assets/a9697ab7-0ac3-46ee-8f2b-884bd622b211
+<img width="1400" height="728" alt="image" src="https://github.com/user-attachments/assets/efe96352-4e22-41a4-b5ce-f1bfbbb3d0b8" />
+
 
 Automatización de flujos de administración mediante:
 
@@ -67,7 +70,8 @@ Seguridad	Encryption at rest, IAM policies, OAuth 2.0
 Automatización	Google Workspace API, Apps Script, Cloud Scheduler
 Monitoreo	Cloud Monitoring, Logging, Alerting
 
-<img width="817" height="448" alt="image" src="https://github.com/user-attachments/assets/669232e8-0da8-42ac-b60c-372357ec2cbd" />
+<img width="925" height="919" alt="image" src="https://github.com/user-attachments/assets/5f0ee323-5367-402c-8f5f-421dab9fe5a2" />
+
 
 
 
