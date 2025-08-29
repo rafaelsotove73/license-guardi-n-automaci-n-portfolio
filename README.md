@@ -78,7 +78,8 @@ Monitoreo	Cloud Monitoring, Logging, Alerting
 
 ### FINAL DE LA PRESENTACION
 ============================
-<img width="925" height="919" alt="image" src="https://github.com/user-attachments/assets/5f0ee323-5367-402c-8f5f-421dab9fe5a2" />
+<img width="710" height="716" alt="image" src="https://github.com/user-attachments/assets/67ef1dfb-a217-444b-857e-0ebd5a03ebd0" />
+
 
 
 
