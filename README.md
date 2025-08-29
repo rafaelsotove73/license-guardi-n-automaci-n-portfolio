@@ -65,13 +65,19 @@ Gestión documental inteligente
 
 Dashboards integrados
 
-🛠️ Stack Tecnológico
+6.🛠️ Stack Tecnológico
 Categoría	Tecnologías
 Cloud Platform	Google Cloud Functions, IAM, Firestore, Cloud SQL
 Seguridad	Encryption at rest, IAM policies, OAuth 2.0
 Automatización	Google Workspace API, Apps Script, Cloud Scheduler
 Monitoreo	Cloud Monitoring, Logging, Alerting
 
+<img width="1339" height="764" alt="image" src="https://github.com/user-attachments/assets/8dcce227-5d1e-4181-882f-745c6aee9fdc" />
+
+
+
+### FINAL DE LA PRESENTACION
+============================
 <img width="925" height="919" alt="image" src="https://github.com/user-attachments/assets/5f0ee323-5367-402c-8f5f-421dab9fe5a2" />
 
 
