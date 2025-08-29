@@ -1,7 +1,7 @@
 🛡️ Guardián de Licencias - Portafolio de Automatización Inteligente
 
+<img width="692" height="703" alt="image" src="https://github.com/user-attachments/assets/fc08a256-f5a0-435c-9813-7ba0722ff18c" />
 
-<img width="670" height="671" alt="image" src="https://github.com/user-attachments/assets/6cffed43-030f-405b-8ea3-e2ac7b9a192f" />
 
 
 
